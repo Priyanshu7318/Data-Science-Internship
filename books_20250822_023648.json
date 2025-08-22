@@ -1,0 +1,502 @@
+[
+    {
+        "Title": "A Light in the Attic",
+        "Price": "Â£51.77",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Tipping the Velvet",
+        "Price": "Â£53.74",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Soumission",
+        "Price": "Â£50.10",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Sharp Objects",
+        "Price": "Â£47.82",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Sapiens: A Brief History of Humankind",
+        "Price": "Â£54.23",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Requiem Red",
+        "Price": "Â£22.65",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Dirty Little Secrets of Getting Your Dream Job",
+        "Price": "Â£33.34",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "Price": "Â£17.93",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "Price": "Â£22.60",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Black Maria",
+        "Price": "Â£52.15",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "Price": "Â£13.99",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Shakespeare's Sonnets",
+        "Price": "Â£20.66",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Set Me Free",
+        "Price": "Â£17.46",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "Price": "Â£52.29",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Rip it Up and Start Again",
+        "Price": "Â£35.02",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "Price": "Â£57.25",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Olio",
+        "Price": "Â£23.88",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "Price": "Â£37.59",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Libertarianism for Beginners",
+        "Price": "Â£51.33",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "It's Only the Himalayas",
+        "Price": "Â£45.17",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "In Her Wake",
+        "Price": "Â£12.84",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "How Music Works",
+        "Price": "Â£37.32",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+        "Price": "Â£30.52",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Chase Me (Paris Nights #2)",
+        "Price": "Â£25.27",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Black Dust",
+        "Price": "Â£34.53",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Birdsong: A Story in Pictures",
+        "Price": "Â£54.64",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "Price": "Â£22.50",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Aladdin and His Wonderful Lamp",
+        "Price": "Â£53.13",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Worlds Elsewhere: Journeys Around Shakespeareâs Globe",
+        "Price": "Â£40.30",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Wall and Piece",
+        "Price": "Â£44.18",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "Price": "Â£17.66",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "Price": "Â£31.05",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Elephant Tree",
+        "Price": "Â£23.82",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Bear and the Piano",
+        "Price": "Â£36.89",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Sophie's World",
+        "Price": "Â£15.94",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Penny Maybe",
+        "Price": "Â£33.29",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Maude (1883-1993):She Grew Up with the country",
+        "Price": "Â£18.02",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "In a Dark, Dark Wood",
+        "Price": "Â£19.63",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Behind Closed Doors",
+        "Price": "Â£52.22",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "You can't bury them all: Poems",
+        "Price": "Â£33.63",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Slow States of Collapse: Poems",
+        "Price": "Â£57.31",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Reasons to Stay Alive",
+        "Price": "Â£26.41",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Private Paris (Private #10)",
+        "Price": "Â£47.61",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+        "Price": "Â£23.11",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Without Borders (Wanderlove #1)",
+        "Price": "Â£45.07",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "When We Collided",
+        "Price": "Â£31.77",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "We Love You, Charlie Freeman",
+        "Price": "Â£50.27",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Untitled Collection: Sabbath Poems 2014",
+        "Price": "Â£14.27",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+        "Price": "Â£44.18",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Unicorn Tracks",
+        "Price": "Â£18.78",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "Price": "Â£25.52",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "Price": "Â£16.28",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+        "Price": "Â£31.12",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "This One Summer",
+        "Price": "Â£19.49",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Thirst",
+        "Price": "Â£17.27",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Torch Is Passed: A Harding Family Story",
+        "Price": "Â£19.09",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Secret of Dreadwillow Carse",
+        "Price": "Â£56.13",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+        "Price": "Â£56.41",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Past Never Ends",
+        "Price": "Â£56.50",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Natural History of Us (The Fine Art of Pretending #2)",
+        "Price": "Â£45.22",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Nameless City (The Nameless City #1)",
+        "Price": "Â£38.16",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Murder That Never Was (Forensic Instincts #5)",
+        "Price": "Â£54.11",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+        "Price": "Â£42.96",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+        "Price": "Â£23.89",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "Price": "Â£16.77",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+        "Price": "Â£20.59",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+        "Price": "Â£37.13",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+        "Price": "Â£56.06",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Death of Humanity: and the Case for Life",
+        "Price": "Â£58.11",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+        "Price": "Â£49.05",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Art Forger",
+        "Price": "Â£40.76",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "Price": "Â£19.73",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "Price": "Â£32.24",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+        "Price": "Â£41.83",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Soul Reader",
+        "Price": "Â£39.58",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Security",
+        "Price": "Â£39.25",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "Price": "Â£25.02",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "Price": "Â£51.04",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Reskilling America: Learning to Labor in the Twenty-First Century",
+        "Price": "Â£19.83",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "Price": "Â£50.40",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "Price": "Â£13.61",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Princess Between Worlds (Wide-Awake Princess #5)",
+        "Price": "Â£13.34",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Pop Gun War, Volume 1: Gift",
+        "Price": "Â£18.97",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "Price": "Â£36.28",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Patience",
+        "Price": "Â£10.16",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "Price": "Â£15.44",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "Price": "Â£48.41",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+        "Price": "Â£46.35",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "On a Midnight Clear",
+        "Price": "Â£14.07",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Obsidian (Lux #1)",
+        "Price": "Â£14.86",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "My Paris Kitchen: Recipes and Stories",
+        "Price": "Â£33.37",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Masks and Shadows",
+        "Price": "Â£56.40",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+        "Price": "Â£14.02",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "Price": "Â£46.91",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "Price": "Â£45.61",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "Price": "Â£19.92",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Layered: Baking, Building, and Styling Spectacular Cakes",
+        "Price": "Â£40.11",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+        "Price": "Â£53.90",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "Join",
+        "Price": "Â£35.67",
+        "Stock Status": "In stock"
+    },
+    {
+        "Title": "In the Country We Love: My Family Divided",
+        "Price": "Â£22.00",
+        "Stock Status": "In stock"
+    }
+]

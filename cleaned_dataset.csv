@@ -1,0 +1,7 @@
+Name,Age,Gender,Salary,Department_Finance,Department_HR,Department_IT
+John,0.0,1,0.0,False,True,False
+Anna,0.3999999999999999,0,0.007547169811320767,False,False,True
+Peter,0.5833333333333335,1,1.0,True,False,False
+Linda,1.0,0,0.018867924528301896,False,False,True
+James,0.08333333333333348,1,0.007547169811320767,True,False,False
+Sophie,0.3333333333333335,0,0.0037735849056603904,False,True,False
